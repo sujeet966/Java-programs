@@ -8,4 +8,4 @@ class test
       int y = sc.nextInt();
       System.out.println(x+y);
   }
-}
+}//thanks..
